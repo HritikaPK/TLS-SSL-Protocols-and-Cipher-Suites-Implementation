@@ -1,3 +1,5 @@
+## Project By: Hritika Kalghatgi & Nithya Warrier
+
 # About
 
 This project explores and implements key aspects of Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols, focusing on handshake procedures and secure data transmission. By building key agreement functions in C++ and analyzing data transfer security, the project emphasizes the role of TLS/SSL in ensuring authentication, integrity, and encryption over TCP for tamper-proof communication.
